@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">YotaTest</string>
+    <string name="check_out_internet">Проверьте интернет-соединение</string>
+    <string name="choose_app">Выберите приложение</string>
+    <string name="rocket_s_name">Rocket\'s name</string>
+    <string name="date">Date</string>
+    <string name="details">Details</string>
+    <string name="rocket_model">rocketModel</string>
+</resources>
